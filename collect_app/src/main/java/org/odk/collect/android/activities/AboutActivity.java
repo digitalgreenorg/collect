@@ -44,7 +44,7 @@ public class AboutActivity extends CollectAbstractActivity implements
 
     private static final String LICENSES_HTML_PATH = "file:///android_asset/open_source_licenses.html";
     private static final String GOOGLE_PLAY_URL = "https://play.google.com/store/apps/details?id=";
-    private static final String ODK_WEBSITE = "https://getodk.org";
+    private static final String ODK_WEBSITE = "http://www.kobotoolbox.org";
 
     private CustomTabHelper websiteTabHelper;
     private Uri websiteUri;
